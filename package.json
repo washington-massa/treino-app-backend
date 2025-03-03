@@ -1,0 +1,15 @@
+{
+  "name": "projeto-academia",
+  "version": "1.0.0",
+  "description": "Projeto pessoal de um app para acompanhar treinos de musculação.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
